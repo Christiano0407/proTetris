@@ -27,3 +27,22 @@ body {
         rgba(94, 191, 178, 1) 100%
     );
 }
+header {
+    text-align: center;
+    margin-top: 3rem;
+}
+div {
+    height: 2rem;
+    width: 2rem;
+}
+
+/*Some Utility Classes*/
+.t-ucase {
+    text-transform: uppercase;
+}
+.t-big {
+    font-size: 1.5rem;
+}
+.t-wide {
+    font-size: 1.5rem;
+}
