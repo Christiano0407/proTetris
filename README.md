@@ -30,6 +30,10 @@
 - Adobe Fonts
 - Google Fonts
 
+# MIT Licence
+
+Copyright (c) 2020 Ania Kubow
+`<kubowania>` :<https://github.com/kubowania>
 #### Javascript
 
 ```javascript
@@ -53,7 +57,3 @@
   }
   freeze()
 
-# MIT Licence
-
-Copyright (c) 2020 Ania Kubow
-`<kubowania>` :<https://github.com/kubowania>
