@@ -52,3 +52,8 @@
     }
   }
   freeze()
+
+# MIT Licence
+
+Copyright (c) 2020 Ania Kubow
+`<kubowania>` :<https://github.com/kubowania>
