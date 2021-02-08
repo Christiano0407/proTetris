@@ -67,4 +67,6 @@ document.addEventListener(`DOMContentLoader`, () => {
        // the classical behavior is to speed up the block if down button is kept pressed so doing that
           document.addEventListener(`keydown`, control);
          //The Tetrominoes
+
+        
 })
